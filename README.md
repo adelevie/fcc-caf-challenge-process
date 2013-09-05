@@ -4,9 +4,9 @@
 
 As Part of the Universal Service Fund/Intercarrier Compensation (USF/ICC) Transformation Order, the Federal Communications Commission (FCC) has been working on implementing the Connect America Fund (CAF).
 
-As part of CAF, The FCC will be providing support dollars to Internet Service Providers (price cap carriers) on a  basis in exchange for guarantees related to the services that they will provide in certain areas. It has been the policy of the FCC to ensure that support or subsidies only flow to areas that do not have an unsubsizied competitor.
+As part of CAF, the FCC will be providing support dollars to Internet Service Providers (price cap carriers) in exchange for guarantees related to the services that they will provide in certain areas. It has been the policy of the FCC to ensure that support or subsidies only flow to areas that do not have an unsubsizied competitor.
 
-In order to accomplish this policy objective, the FCC has relied on the National Broadband Map to determine which census tracts already have such an "unsubsidized competitor". Price cap carriers may not receive support for serving these areas.
+In order to accomplish this policy objective, the FCC has relied on the National Broadband Map to determine which census tracts already have such an "unsubsidized competitor". Price cap carriers may not receive support for serving these areas. As part of this process, the FCC has established a challenge process by which different parties can contest these determinations made by the FCC.
 
 On August 28, 2013, the [FCC released a `.xlsx`](http://apps.fcc.gov/ecfs/document/view?id=7520940223) file containing a list of census blocks:
 
