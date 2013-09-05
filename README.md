@@ -38,8 +38,8 @@ Sample row:
 ```javascript
 {
   "fips":"150010210101007",
-  "state":"HI","carrier":
-  "Hawaiian Telecom",
+  "state":"HI",
+  "carrier":"Hawaiian Telecom",
   "challenge":false
 }
 ```
