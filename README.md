@@ -28,14 +28,30 @@ Files:
 
 Schema:
 
-- "fips": Fifteen digit Federal Information Process Standards code for the block
-- "state": Two-letter state abbreviation
-- "carrier": The name of the price cap carrier seeking support
-- "challenge": A boolean value (`true` or `false`) indicating whether or not that carrier is challenging the block in question.
+- `fips`: Fifteen digit Federal Information Process Standards code for the block
+- `state`: Two-letter state abbreviation
+- `carrier`: The name of the price cap carrier seeking support
+- `challenge`: A boolean value (`true` or `false`) indicating whether or not that carrier is challenging the block in question.
+
+Sample row:
+
+```javascript
+{
+  "fips":"150010210101007",
+  "state":"HI","carrier":
+  "Hawaiian Telecom",
+  "challenge":false
+}
+```
+
+### Using `pivot.rb`
+
+1. Clone this repository and `cd` into it.
+2. Run `bundle`.
+3. Run `ruby pivot.rb`
+4. You'll have a [Pry](http://pryrepl.org/) session ready to go.
 
 ### License(s) (or lack thereof)
-
-
 
 As a work of the United States Government, this `DOC-323008A1.xslx` is in the public domain within the United States. Additionally, we waive copyright and related rights in the work worldwide through the CC0 1.0 Universal public domain dedication (which can be found at http://creativecommons.org/publicdomain/zero/1.0/).
 
