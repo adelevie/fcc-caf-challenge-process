@@ -2,7 +2,7 @@
 
 (Caution: Beware of acronyms)
 
-As Part of the Universal Service Fund/Intercarrier (USF/ICC) Compensation Transformation Order, the Federal Communications Commission (FCC) has been working on implementing the Connect America Fund (CAF).
+As Part of the Universal Service Fund/Intercarrier Compensation (USF/ICC) Transformation Order, the Federal Communications Commission (FCC) has been working on implementing the Connect America Fund (CAF).
 
 As part of CAF, The FCC will be providing support dollars to Internet Service Providers (price cap carriers) on a  basis in exchange for guarantees related to the services that they will provide in certain areas. It has been the policy of the FCC to ensure that support or subsidies only flow to areas that do not have an unsubsizied competitor.
 
